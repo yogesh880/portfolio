@@ -169,7 +169,7 @@ const socialLinks = [
     },
     {
         name: "LinkedIn",
-        href: "https://www.linkedin.com/",
+        href: "https://www.linkedin.com/in/yogesh-kumar-675739204/",
         icon: (
             <svg viewBox="0 0 24 24" className="h-5 w-5" fill="currentColor" aria-hidden="true">
                 <path d="M6.94 8.5a1.56 1.56 0 1 0 0-3.12 1.56 1.56 0 0 0 0 3.12ZM5.5 9.75h2.88V18H5.5V9.75Zm4.86 0h2.76v1.13h.04c.38-.72 1.32-1.48 2.72-1.48 2.92 0 3.46 1.92 3.46 4.41V18h-2.88v-7.42c0-1.77-.03-4.04-2.46-4.04-2.46 0-2.84 1.92-2.84 3.9V18H10.36V9.75Z" />
